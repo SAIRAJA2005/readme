@@ -1,101 +1,88 @@
+<h1 align="center">Hi there! I'm Sai Raja Saride 👋</h1>
 
-### 💻 Raja Saride | `@SAIRAJA2005`
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00DDEB&center=true&vCenter=true&width=435&lines=Computer+Science+Enthusiast;Salesforce+Wizard;Web+Development+Ninja" alt="Typing SVG" />
+</p>
 
-> Computer Science undergrad | Salesforce Admin Intern | Web Developer | Problem Solver
+<p align="center">
+  <a href="mailto:sairajasaride113@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sairajasaride"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/SAIRAJA2005"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+</p>
 
 ---
-
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hello,%20I'm%20Raja!&fontSize=40&fontAlign=center&fontColor=ffffff)
 
 ### 🚀 About Me
+I’m a **Computer Science graduate** (2022-2026) from **Aditya College of Engineering and Technology**, passionate about coding, problem-solving, and building scalable solutions. With a **GPA of 7.8**, I specialize in **Salesforce Administration**, **Web Development**, and programming in **C++, Java, Python**, and more. I’ve solved **350+ LeetCode challenges** and delivered **5+ impactful projects** using modern tech stacks.
 
-I'm a passionate Computer Science student with a flair for **Salesforce Administration**, **Web Development**, and **Problem Solving**. I specialize in building responsive, user-friendly interfaces and solving real-world problems through code. With hands-on experience across 5+ projects and 350+ LeetCode challenges, I strive to create tech that makes a difference.
-
----
-
-### 🛠️ Skills & Tools
-
-```yaml
-Languages:      C++, C, Java, Python, Apex, HTML, CSS, JavaScript, SQL
-Web Tech:       Salesforce LWC, Responsive UI/UX
-Tools:          VS Code, Notepad++, Excel, PowerPoint, Sublime
-Platforms:      GitHub, Salesforce, MySQL
-Achievements:   300+ LeetCode | 150+ GFG Problems | Multiple Internships
-```
+- 🌟 **Key Strengths**: Apex scripting, Lightning Web Components (LWC), UI/UX design, and API integrations.
+- 🎯 **Achievements**: Enhanced performance by **40%** in web apps and boosted user engagement by **25%**.
+- 💡 **Fun Fact**: I once automated 100% of billing notifications in a Smart Energy system!
 
 ---
 
-### 🌟 Projects Showcase
+### 🛠️ Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
-- 🔥 **Portfolio Using LWC**  
-  _Dynamic Salesforce portfolio with LWC, HTML, CSS, and JS_  
-  ⮕ Reduced manual work by 80%, delivered in 75+ hours
-
-- ⚡ **Smart Energy Building Management System**  
-  _Salesforce-based billing & energy optimization system across 10+ buildings_
-
-- 🎓 **School Management System**  
-  _Java Swing + JDBC powered secure admission platform_
-
-- 🛒 **SSR-Bazaar (E-commerce site)**  
-  _Static responsive site for electronics & groceries_
-
-- 🧪 **Elements Table (Chemistry Webpage)**  
-  _Interactive educational HTML/CSS site on chemical elements_
-
-- 🚀 **NASA Awareness Site**  
-  _Informative, visually engaging static NASA-focused site_
+#### Problem-Solving Stats
+- **LeetCode**: 350+ problems solved  
+  ![LeetCode Progress](https://progress-bar.dev/350/?scale=500&title=LeetCode&width=200&color=00cc00)
+- **GeeksforGeeks**: 150+ problems solved  
+  ![GFG Progress](https://progress-bar.dev/150/?scale=300&title=GFG&width=200&color=00cc00)
 
 ---
 
-### 💼 Internships & Roles
+### 🌟 Projects
+#### [Portfolio Using LWC](https://github.com/SAIRAJA2005/portfolio-lwc)
+- Built a dynamic portfolio with **Salesforce LWC**, reducing manual work by **80%**.
+- Responsive UI with **HTML, CSS, JS**, optimized for performance.
 
-- 🧑‍🏫 **C Intern** @ Technical Hub  
-  > Trained 200+ students, improved problem-solving by 40%
+#### [Smart Energy Building Management System](https://github.com/SAIRAJA2005/sebms)
+- Automated energy monitoring for **10+ buildings** using **Salesforce**.
+- Improved efficiency by **25%** with billing automation.
 
-- ☁️ **Salesforce Admin Intern** @ Technical Hub  
-  > Delivered 5+ projects, reduced manual processes by 30%
+#### [SSR-Bazaar](https://github.com/SAIRAJA2005/ssr-bazaar)
+- Static e-commerce site for electronics & groceries with **90%+ device compatibility**.
+- Enhanced user experience with real-time updates.
 
-- 🌐 **Web Development Intern** @ Codesoft  
-  > Built NASA static site, boosted user engagement by 30%
-
----
-
-### 📜 Certifications
-
-- Java & Python – IT Specialist  
-- Python & SQL – Certificate of Accomplishment  
-- CCNA: Introduction to Networks  
-🧾 [See LinkedIn Certificates »](https://www.linkedin.com/in/sairajasaride)
+#### [School Management System](https://github.com/SAIRAJA2005/school-management)
+- Java-based system with **Swing UI** and **MySQL** integration for secure admissions.
 
 ---
 
-### 🏆 Achievements
-
-- 🥈 **2nd Prize** at ADVIKA'23, Nannaya University (Tech Fest)  
-- 🧠 Consistent performer in coding challenges (LeetCode + GFG)
+### 💼 Experience
+- **C Intern @ Technical Hub**  
+  Guided **200+ students**, improving problem-solving skills by **40%**.
+- **Salesforce Admin Intern @ Technical Hub**  
+  Streamlined **5+ projects**, reducing manual effort by **30%**.
+- **Web Development Intern @ Codesoft**  
+  Built a NASA-themed site, boosting engagement by **30%**.
 
 ---
 
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/sairajasaride)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/SAIRAJA2005)
-📧 sairajasaride113@gmail.com  
-📱 +91 905 968 7192  
+### 🏆 Certifications & Achievements
+- **Certifications**: Java, Python, SQL, CCNA: Intro to Networks.
+- **Achievements**: 2nd Prize in **INTELLECTON @ ADV’IKA’23**.
 
 ---
 
 ### 📊 GitHub Stats
-
-![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAIRAJA2005&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAIRAJA2005&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAIRAJA2005&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAIRAJA2005&theme=radical" alt="GitHub Streak" width="400" />
+</p>
 
 ---
 
-### 🌐 Portfolio & Links
-
-🔗 [Student Profile (AEC)](https://info.aec.edu.in/ACET/StudentMaster.aspx)  
-🌍 [Salesforce Portfolio](https://rhub-dev-ed.develop.my.site.com/)  
-🔗 [HackerRank Java](https://www.hackerrank.com/certificates/a290c65a67de)  
-🔗 [HackerRank Python](https://www.hackerrank.com/certificates/d808e48f98aa)
+<p align="center">
+  <strong>Let’s build something amazing together! 🚀</strong>
+</p>
