@@ -70,7 +70,7 @@ I’m a **Computer Science graduate** (2022-2026) from **Aditya College of Engin
 ---
 
 ### 🏆 Certifications & Achievements
-- **Certifications**: Java, Python, SQL, CCNA: Intro to Networks.
+- **Certifications**: Java, Python, SQL, CPP, C, CCNA: Intro to Networks.
 - **Achievements**: 2nd Prize in **INTELLECTON @ ADV’IKA’23**.
 
 ---
